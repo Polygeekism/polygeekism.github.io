@@ -4,7 +4,7 @@ body {
 	font: 16px Times, serif;
    background: url(opaque_background.jpg) no-repeat center center;
    background-attachment: fixed;
-   text-align: center;
+   text-align: left;
    }
 #container {
 	width: 800px;
