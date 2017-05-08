@@ -4,7 +4,7 @@ body {
    background: url(opaque_background.jpg) no-repeat center center;
    background-attachment: fixed;
    text-align: center;
-  }
+   background: rgba(0, 0, 0, 0.5);}
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
