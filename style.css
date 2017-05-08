@@ -1,7 +1,7 @@
 h1 { 
 }
 body {
-	font: 16px Times, serif;
+	font: 16px Arial Verdana, sans-serif;
    background: url(opaque_background.jpg) no-repeat center center;
    background-attachment: fixed;
    text-align: left;
