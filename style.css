@@ -2,6 +2,6 @@ p {
 color: red;
 }
 body {
-   background-image: url("polygeekism.github.io/opaque background.jpg") no-repeat center center fixed
+   background-image: url("polygeekism.github.io/opaque background.jpg") no-repeat center center fixed;
    background-size: cover;
 }
