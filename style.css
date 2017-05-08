@@ -1,6 +1,6 @@
 p {
 }
 body {
-   background: url(opaque_background.jpg);
+   background: url(opaque_background.jpg) no-repeat center center;
    color: green;
 }
