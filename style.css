@@ -5,13 +5,14 @@ body {
    background: url(opaque_background.jpg) no-repeat center center;
    background-attachment: fixed;
    text-align: left;
-	padding: 50px 30px 50px 80px;
+	
    }
 #container {
 	width: 800px;
 	margin: 60px auto 60px;
 	background: rgba(255,255,255, 0.7);
 	border-radius: 25px;
+	padding: 00px 30px 00px 30px;
         }
 #headline {
 	font-style: italic;
