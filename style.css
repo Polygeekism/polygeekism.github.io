@@ -2,5 +2,6 @@ p {
 }
 body {
    background: url(opaque_background.jpg) no-repeat center center;
+   background-attachment: fixed;
    color: green;
 }
