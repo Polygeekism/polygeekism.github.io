@@ -5,6 +5,7 @@ body {
    background: url(opaque_background.jpg) no-repeat center center;
    background-attachment: fixed;
    text-align: left;
+	padding: 50px 30px 50px 80px;
    }
 #container {
 	width: 800px;
