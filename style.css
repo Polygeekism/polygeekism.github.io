@@ -21,13 +21,13 @@ body {
 #name {
 	font-weight: bold;
 	font-size: 40px;
-	border-bottom: 2px solid #999;
+	border-bottom: 2px solid #000000;
 }
  #info {
 	font-size: 12px;
 }
 h2 {
-border-bottom: 1px solid #999;	
+border-bottom: 1px solid #000000;	
 }
 #pic {
 	float: right;
